@@ -1,0 +1,72 @@
+p{
+    color:brown;
+}
+#celu{
+    color:brown;
+}
+img{
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+table, th, td {
+    border: 1px solid black;
+    background-color:#00FF00;
+  }
+header {
+color: blue;
+}
+#contacto{
+    position:fixed;
+  top:0 ;
+  right: 0;
+  width:auto;
+  border: 3px solid #73AD21;
+}
+#titulo_aside{
+color:blueviolet;
+
+}
+#titulo{
+    color: blueviolet;
+    background-color: lightgray
+}
+#titulo_section{
+    color:brown;
+    background-color: lightgray
+}
+section h1 {
+
+    color:blueviolet;
+}
+ul{
+    color:brown;
+}
+h2 {/*border: 1px solid black ;*/
+    padding:5px ;
+    margin-top: 30px ;
+    margin-bottom: 20px;
+    margin-left: 10px ;
+    margin-right: 10px ;
+    padding-top: 20 px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 20px;
+    font-weight: bold;
+    color: grey;}
+aside {
+        width: 30%;
+        /*padding-left: 15px;
+        margin-left: 15px;
+        /*float:right;*/
+        /*font-style: italic;*/
+        background-color: lightgray;
+      }
+section { width: 30%;
+    float: right;
+}
+#cuerpo{
+    background: lightblue;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
